@@ -6,7 +6,7 @@ As 14 atividades iniciais da disciplina cobrem o básico do HTML, incluindo elem
 
 As atividades a seguir abordam o básico do HTML:
 
-1. [atividade 1: `<html>`, `<head>`, `<body>`, `<footer>`](atividade1.html)
+1. [Atividade 1: `<html>`, `<head>`, `<body>`, `<footer>`](atividade1.html)
 2. [atividade 2: `<main>`, `<section>`, `<aside>`](atividade2.html)
 3. [atividade 3: `<h1>`, ..., `<h6>`](atividade3.html)
 4. [atividade 4: `<p>`, `<b>`, `<i>`](atividade4.html)
