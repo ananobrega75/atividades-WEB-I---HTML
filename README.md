@@ -1,4 +1,4 @@
-Atividade 1: <html>, <head>, <body>, <footer> (atividade1.html)
+Atividade 1: <html>, <head>, <body>, <footer> {atividade1.html}
 Atividade 2: <main>, <section>, <aside>
 Atividade 3: <h1>, ..., <h6>
 Atividade 4: <p>, <b>, <i>
